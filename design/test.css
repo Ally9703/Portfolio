@@ -1,0 +1,29 @@
+.projets {
+  width: 400px;
+  margin: 40px;
+  padding-right: 50px;
+  display: inline-block;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+.projet img {
+  min-width: 400px;
+  height: 266px;
+}
+
+.picture {
+  width: 400px;
+  height: 266px;
+  overflow: hidden;
+  margin-bottom: 15px;
+}
+
+.projet span {
+  text-transform: uppercase;
+  display: block;
+  padding-bottom: 10px;
+}
+
+.projet .date-project {
+  font-size: 0.7em;
+}
